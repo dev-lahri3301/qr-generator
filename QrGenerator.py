@@ -9,7 +9,7 @@ user = input("Enter your Link: ")
 color = "black"
 bgColor = "white"
 color = input("Enter your qr color: ")
-bgColor = input("Enter your Baclkground color: ")
+bgColor = input("Enter your Background color: ")
 
 
 qr.add_data(user)

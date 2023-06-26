@@ -12,7 +12,9 @@ Additionally, you need to install the required dependencies. Open your terminal 
  pip install qrcode
 ```
 And Also install Pillow Library :
-``` pip install Pillow ```
+```
+pip install Pillow 
+```
 
 ## Usage
 1. Import the qrcode module into your Python script:
